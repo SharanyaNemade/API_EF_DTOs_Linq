@@ -8,7 +8,7 @@ using ShopApis.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Testing GitHub connection through Visual Studio
+
 
 // ---------- Services (everything BEFORE Build) ----------
 

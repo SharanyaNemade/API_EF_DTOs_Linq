@@ -19,3 +19,10 @@ obj/
 
 # Temporary files
 *.tmp
+
+
+# Visual Studio temporary files
+*.cache
+
+# User-specific files
+*.sln.docstates
