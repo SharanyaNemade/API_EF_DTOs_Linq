@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# Visual Studio generated files
+[Bb]in/
+[Oo]bj/
+
+# Logs
+*.log
+
+# User-specific files
+*.csproj.user
+
+# Temporary files
+*.tmp
